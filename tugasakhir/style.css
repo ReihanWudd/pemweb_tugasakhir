@@ -1,0 +1,11 @@
+.username_empty{
+    display: none;
+}
+
+.pass_empty{
+    display: none;
+}
+
+.regsuccess{
+    color: red;
+}
